@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GestionevoloApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GestionevoloApplication.class, args);
 	}
 
